@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+body{
+    background-color: skyblue;
+    place-items: center;
+    font-family: 'Inter', sans-serif;
+    height: 900px;
+}
+.card-main {
+    background-color: whitesmoke;
+    width: 500px;
+    height: auto;
+    margin-top: 8rem;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+}
+.card-header{
+    text-align: center;
+    color: black;
+}
+.fa-solid:hover{
+    color: whitesmoke;
+}
